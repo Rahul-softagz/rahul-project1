@@ -12,6 +12,7 @@ if(isset($BackToMyPage)) {
 } else {
     header('Location: index.php'); // default page
 }
-   
+echo "this is a demo of git";
+echo "this is a demo of git diff";   
 
 ?>
