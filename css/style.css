@@ -2390,3 +2390,7 @@ background: linear-gradient(to bottom, #E2E2E2, #C9D6FF); /* W3C, IE 10+/ Edge, 
     z-index: 3;
 
 }
+.demogit{
+  font-weight: bolder;
+  /* this is a demo of git */
+}
