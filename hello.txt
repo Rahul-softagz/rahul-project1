@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 this is a demo1
 this is a demo1
 this is a demo1
+=======
+this other demo with other folder
+>>>>>>> other chge md
