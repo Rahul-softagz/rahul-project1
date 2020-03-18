@@ -22,3 +22,5 @@ this is a demo1
 this is a demo1
 this other demo with other folder
 {{{{{ NEW CHANGES MULTIPLE }}}}}
+
+Lets see its auto merge or not
