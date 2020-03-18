@@ -29,3 +29,5 @@ demo merge
 onther person working2
 
 updateing to check auto merge in other folder
+
+other way to pull data
