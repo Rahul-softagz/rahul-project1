@@ -22,6 +22,9 @@ this is a demo1
 this is a demo1
 this other demo with other folder
 {{{{{ NEW CHANGES MULTIPLE }}}}}
+<<<<<<< HEAD
+
+Lets see its auto merge or not
 < not sure how it will work this is the testing of the multiple >
 MMMMMerge ttttest
 nthing work
