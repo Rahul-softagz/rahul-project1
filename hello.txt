@@ -1,14 +1,5 @@
 this is a demo1
 
-{{{{{ NEW CHANGES }}}}}
-this is a demo1
-this is a demo1
-this other demo with other folder
-{{{{{ NEW CHANGES MULTIPLE }}}}}
-this other demo with other folder
-< this is the testing of the multiple >
-merge in to other way
-merge test
 nthing work
 demo merge
 onther person working1
@@ -40,3 +31,5 @@ updateing to check auto merge in other folder
 email changesd
 
 other way to pull data
+++++++++++person
+----------
