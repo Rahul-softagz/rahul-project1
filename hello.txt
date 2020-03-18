@@ -31,5 +31,5 @@ updateing to check auto merge in other folder
 email changesd
 
 other way to pull data
-++++++++++person
-----------
+this is a demot through github
+>>>>>>> f7d16b4d5f2a623ba295d7de45359610e333755d
