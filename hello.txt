@@ -7,30 +7,4 @@ this other demo with other folder
 {{{{{ NEW CHANGES MULTIPLE }}}}}
 this other demo with other folder
 < this is the testing of the multiple >
-merge in to other way
-merge test
-nthing work
-demo merge
-onther person working1
-< not sure how it will work this is the testing of the multiple >
-MMMMMerge test
-nthing work
-demo merge
-onther person working1
-{{{{{ NEW CHANGES }}}}}
-this is a demo1
-this is a demo1
-this other demo with other folder
-{{{{{ NEW CHANGES MULTIPLE }}}}}
-
-Lets see its auto merge or not
-< not sure how it will work this is the testing of the multiple >
-MMMMMerge ttttest
-nthing work
-demo merge
-onther person working2
-
-updateing to check auto merge in other folder
-email changesd
-
-other way to pull data
+this is vs demo
