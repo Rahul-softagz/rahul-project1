@@ -17,3 +17,8 @@ MMMMMerge test
 nthing work
 demo merge
 onther person working1
+{{{{{ NEW CHANGES }}}}}
+this is a demo1
+this is a demo1
+this other demo with other folder
+{{{{{ NEW CHANGES MULTIPLE }}}}}
